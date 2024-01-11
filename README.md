@@ -4,6 +4,8 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
+### Screenshot Link : https://github.com/19vy/E-Commerce-Sales-Analytics-Dashboard/blob/main/Screenshot%202024-01-11%20173849.png
+
 ### Data Description:
 
 The Ecom Sales Report dashboard, developed using Power BI, offers a detailed analysis of the company's market sales across different dimensions such as category, state, shipment modes, and country. The data reveals a total sales figure of $12.64 million, accompanied by a profit of $1.47 million. The quantity sold stands at 178,000 units, with a shipment cost of $1.35 million. The dataset encompasses three distinct categories, eight markets, and four shipment modes, providing a comprehensive snapshot of the company's sales landscape.
