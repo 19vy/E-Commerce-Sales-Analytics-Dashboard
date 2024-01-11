@@ -2,7 +2,7 @@
 
 # E-Commerce Sales Analytics-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : https://github.com/19vy/E-Commerce-Sales-Analytics-Dashboard/blob/main/Ecom%20Dashboard.pbix
 
 ### Screenshot Link : https://github.com/19vy/E-Commerce-Sales-Analytics-Dashboard/blob/main/Screenshot%202024-01-11%20173849.png
 
